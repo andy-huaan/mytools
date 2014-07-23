@@ -17,6 +17,11 @@ import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
 import com.tools.jackson.po.Student;
 
+/**
+ * JSON×ª»»¹¤¾ß
+ * @author zhaohuaan
+ *
+ */
 public class JackSonUtil {
 	public  static JsonGenerator jsonGenerator = null;
 	private static ObjectMapper mapper = new ObjectMapper();

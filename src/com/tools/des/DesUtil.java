@@ -13,7 +13,7 @@ import com.tools.base64.Base64;
 
 /**
  * DESº”√‹Ω‚√‹
- * @author Administrator
+ * @author zhaohuaan
  *
  */
 public class DesUtil
