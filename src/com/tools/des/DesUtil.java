@@ -1,5 +1,6 @@
 package com.tools.des;
 
+import java.net.URLEncoder;
 import java.security.Key;
 import java.security.spec.AlgorithmParameterSpec;
 
@@ -128,5 +129,8 @@ public class DesUtil
 		//·½·¨2
 		String ming2 = decryptDES(key, mi);
 		System.out.println(ming2);
+		
+		String a = URLEncoder.encode("", "UTF-8");
+		System.out.println(a);
 	}
 }
