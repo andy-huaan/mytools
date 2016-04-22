@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/tools=GBK
+encoding//src/com/tools/base64/Base64.java=GBK
+encoding//src/com/tools/base64/Base64Test.java=GBK
+encoding//src/com/tools/common/ClipboardContent.java=GBK
+encoding//src/com/tools/des/DesUtil.java=GBK
+encoding//src/com/tools/mail/SendMail.java=GBK
+encoding//src/com/tools/rsa/RSAUtils.java=GBK
+encoding//src/com/tools/wrapper/MyWrapper.java=GBK
+encoding/src=GBK
